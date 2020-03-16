@@ -1,6 +1,5 @@
 /*
-  Implement an algorithm to 
-  determine if all characters in a string are unique. 
+  Implement an algorithm to determine if all characters in a string are unique. 
 */
 
 function allUniqueCharsWithSet(input) {

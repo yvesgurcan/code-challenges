@@ -27,5 +27,25 @@ void foo (int[] array) {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // answer
 // O(n)

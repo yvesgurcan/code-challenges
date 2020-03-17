@@ -1,3 +1,4 @@
+// code
 void foo (int[] array) {
     int sum = 0;
     int product = 1;
@@ -9,3 +10,22 @@ void foo (int[] array) {
     }
     System.out.println(sum + ", " + product);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// answer
+// O(n)

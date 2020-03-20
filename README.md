@@ -15,3 +15,7 @@ Given two strings, write a method to decide if one is a permutation of the other
 ## [Count unique labels](https://github.com/yvesgurcan/code-challenges/blob/master/challenges/count-unique-labels.js)
 
 Find out how many labels are unique to a demographic.
+
+## [Connect Fourt](https://github.com/yvesgurcan/code-challenges/blob/master/challenges/connect-four.js)
+
+Create a function to determine who is the winner of a Connect Four game.

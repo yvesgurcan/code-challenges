@@ -20,6 +20,6 @@ Find out how many labels are unique to a demographic.
 
 Create a function to determine who is the winner of a Connect Four game.
 
-## INCOMPLETE: [Prime Factors](https://github.com/yvesgurcan/code-challenges/blob/master/prime-factors/index.js)
+## INCOMPLETE: [Prime Factors](https://github.com/yvesgurcan/code-challenges/blob/master/challenges/prime-factors/index.js)
 
 Create a function to find the prime factors of a number.

@@ -1,0 +1,12 @@
+{
+    "name": "prime-factors",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest": "^25.2.4"
+    }
+}
